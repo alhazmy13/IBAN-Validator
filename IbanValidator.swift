@@ -1,6 +1,3 @@
-import UIKit
-
-
 extension String {
     private func mod97() -> Int {
         let symbols: [Character] = Array(self)
